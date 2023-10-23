@@ -18,7 +18,7 @@ https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-
 asdf asdf
 https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-1-decentralized-staking
 
----
+---asdfasdfsadf
 
 ## 🚩 Challenge 2: 🏵 Token Vendor
 
