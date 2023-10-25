@@ -1,7 +1,8 @@
 # 🏗👷🏾 Scaffold-ETH Challenges
 
 > learn how to use 🏗 scaffold-eth to create decentralized applications on Ethereum. 🚀
-
+йцукйцукчц
+> 
 ---
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example
