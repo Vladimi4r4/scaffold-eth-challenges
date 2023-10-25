@@ -7,7 +7,7 @@
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example
 
-🎫 Create a simple NFT to learn basics of 🏗 scaffold-eth. You'll use 👷‍♀️ HardHat to compile and deploy smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀
+🎫 Create a simple NFT to learn basics of 🏗 scaffold-eth. You'll use 👷‍♀️ HardHat to compile and deploy smart contracts. Then, you'll use a template React app full of important Ethereum components and hooks. Finally, you'll deploy an NFT to a public network to share with friends! 🚀афываы
 
 https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-0-simple-nft
 
